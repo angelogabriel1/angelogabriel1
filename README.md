@@ -1,6 +1,7 @@
 ### E aí! eu sou o Angelo Gabriel.
 
 - 🌱 Atualmente estou estudando Python!
+- 😀 Tenho conhecimento básico em Javascript
 
 
 
